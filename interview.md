@@ -2,14 +2,14 @@
 
 ## Behavioural Questions
 
-Most (tech) interviews in NORAM are conducted using _Behavioural Questions_. These questions are very useful to understand how you perform work and deliver results. They are used to probe for details in a candidate's work history, clarifying what experience they actually have as professional software developers. They can filter out candidates making exaggerated claims about their performance, but they are also used to understand how you approach challenges and which areas you require mentoring to grow.
+Most (tech) interviews are conducted using _Behavioural Questions_. These questions are used to explore your work experience and determine your ability to be successful at the role you're interviewing for. While they can be used to filter out exaggerated claims and other red flags, they are also useful to highlight potential areas for growth if you were to join the company. This clarifies to the hiring manager what potential a candidate has a long term hire, which can feed data into the compensation decision as well.
 
-It's easy to bomb these questions if you haven't thought of their _purpose_ before. What the interviewer wants to do is assess your abilities beyond what you're claiming you're capable of. They also want to know if you'd be a good addition to their team. The best indicator for future performance is past performance (note: not a _guarantee_, but an _indicator_). As an interviewer, we need _data_ to make those decisions, and _peeling the onion_ using behavioural questions is a great tool to collect it.
+It's easy to bomb these questions if you haven't thought of their _purpose_ before. The best indicator for future performance is past performance (note: not a _guarantee_, but an _indicator_). Interviewers need _data_ to make those determinations, and this technique is a reliable mechanism to collect it. At most companies, the results of the behavioural interview are added to technical screening data in a "de-briefing" session, in which stakeholders make the hiring decision.
 
 ### Examples
 
-* Tell me about a time when... (area of interest)
-** Followed by questions to probe on the candidate's experience.
+* Tell me about a time when... (area of interest to the interviewer)
+* ...Followed by questions to probe on the candidate's experience.
 
 **_Can you tell me about a time you were facing a difficult deadline in a project?_**
 - When did you first talk to your leadership about the problems?
@@ -30,21 +30,25 @@ And so on. You get the idea.
 
 ## How do I answer these questions?
 
-Honestly. That's the key part - always speak the truth. Companies are not looking for "saving the world" examples; Instead, they're looking for _consistent positive behaviour_ when dealing with challenging situations. To convince them of that, you draw from examples in your past work history, looking for stories that match what you are being asked about, and then _tell them as a narrative_.
+With honesty. That's the key part - draw examples from past experience. Often, people improvise (when not straight lying) to deliver an answer they believe makes them look good. Do not do this. Experienced interviewers are skilled in picking up your exaggerations; They are themselves experienced professionals, having delivered multiple real-world problems. They can tell when you're polishing your story.
+
+Instead, understand that companies are not looking for "perfect examples" but realistic ones. Be honest about your own shortcomings, focusing on what you learned and what you'd do differently with your newly-gained knowledge. Absolutely highlight your accomplishments and talk about how you are raising the bar in different aspects of your work, but do so by making claims accompanied with data. Companies want to see that you have _consistent positive behaviour_ at work, and an ability to _learn and develop_ new skills as you progress in your career.
 
 Let's look at an example:
 
 _At Amazon on 2020, my team was tasked with delivering a new feature on the payment service; By Q4, we should accept a new payment method, with complete integration with reconciliation and fraud services. I was tasked with integration to the fraud services. My first challenge was in consuming their APIs without incurring into throttling limits and other non-functional concerns; We expected a high throughput due to ramped up adoption of the new payment method, and had to provision capacity to adequately handle customer traffic. I conducted weekly sync ups with Frauds team to, at first, clarify our requirements, and then track deliverables on their end to ensure our launch could happen on time and without issues. I had to escalate two issues to principal engineers in order to resolve minor technical conflicts, but otherwise the reviews happened on time and on schedule. The project was launched in October 2020, on time, and adoption of the new payment method was 7% above expectations. Despite this, our capacity planning ensured that we did not incur into throttling issues, leading to a 5% below average number of incidents, compared to other popular payment methods._ 
 
-Let's look at reasons why this is a great answer.
+Why is this an acceptable answer?
 
-## Have a method
+## The SBI method
 
-I strongly favour `SBI` - *S*ituation, *B*ehaviour, *I*mpact - which can also be referred to as `STAR` (Situation, Task, Action, Results). It boils down to a simple idea:
+I strongly favour the `SBI` method: **S**ituation, **B**ehaviour, **I**mpact. It is also commonly known as `STAR` (Situation, Task, Action, Results). It's a technique to answer behavioural questions. It offers a simple structure that is easy to remember and works for the majority of questions you may be asked. It consists of the following:
 
-* Have a "setup", just like in comedy when telling a joke, to explain the context;
-* Clearly outline your tasks and responsibilities. Separate them from the broader "team";
-* Describe the results (impact) of your work. Use data to avoid ambiguous statements that cannot be checked.
+* A "situation" block, which describes the context necessary to understand your actions;
+* A description of the actions you've taken, or your "behaviour", within that context, enabling the results of the project;
+* The "impact" of your actions to the project, and its end results.
+
+With that in mind, let's review that answer:
 
 > At Amazon on 2020, my team was tasked with delivering a new feature on the payment service; By Q4, we should accept a new payment method, with complete integration with reconciliation and fraud services.
 
@@ -65,24 +69,35 @@ And here we talk about results, showing data. It's not enough to say "and we wer
 ### Tips
 
 * Study your resumé, reviewing your work experience for examples
-* Consider other sources as well: community work, other things you do outside of work
+* Consider other sources as well: community work, other things you do outside of 9-5 work
 * Practice behavioural interviewing on _both sides_ if you can
 * Learn about metrics and how to outline data in a narrative
+* Avoid unnecessary words that don't add quality to your narrative: E.g "The project was delivered _quickly_" instead of "The project was delivered on time".
 
-### Common Traps
+### Common Mistakes
 
 **Inconsistent narrative**
 
-Your answer should read like someone "describing the room" if you couldn't see it. You shouldn't jump between first and third person, and your tone should be neutral. Pretend you're interviewing for a TV show, or telling a story to your kids. If you ever played an table-top RPG before, this is like the role of the dungeon master: they describe the situation, they are descriptive, they don't assume you know.
+Your answer should read like someone "describing the room" if you couldn't see it. You shouldn't jump between first and third person, and your tone should be neutral. Pretend you're interviewing for a TV show, or telling a story to a friend. If you were to write your answer down, it would read like a newspaper article.
 
 **Be concise**
 
-Do more with less. "We have achieved outstanding results with this motivated team, leading to a successful launch" is a drag to say and even worse to hear. "The project launched by X with Y impact" is what your interviewers want. Save the poetry.
+Do more with less. For example: 
 
-I love this Mark Twain's quote:
+> "We have achieved outstanding results with this motivated team, leading to a successful launch"
 
-"I didn't have time to write a short letter, so I wrote a long one instead."
+This is a drag to say and even worse to hear. Instead, prefer:
+
+> "The project was launched by X with Y impact"
+
+Save the poetry. I also love this Mark Twain's quote:
+
+> "I didn't have time to write a short letter, so I wrote a long one instead."
 
 **Vocabulary**
 
-Avoid repetition, buzz words, and complicated technical statements. Your answer should be readable by anyone with basic background in your domain. You can introduce some explanation into your answer, when you can safely assume the reader is unfamiliar with the technical domain; But remember the rule about being concise.
+Avoid repetition, buzz words, stuttering ("like... uh... like... for example..."). Avoid complicated technical statements and jargon, unless strictly necessary. Your answer should be readable by anyone with basic background in your domain. You can introduce some explanation to your answer, when you can safely assume the reader is unfamiliar with the technical domain; But even then, remember the rule about being concise.
+
+**Categorize your examples**
+
+You are going to be asked questions on multiple topics: your (technical) competencies, your ability to work "under pression", to handle conflicts, to advise managers and upper leadership, to mentor younger peers, and so on. Have examples ready for different "categories" like this. One useful hint: certain companies (like Amazon) have guiding principles (Amazon has Leadership Principles) that outline the culture they hope to foster. These are usually available online for further reference, and are a great way to categorize your examples.
