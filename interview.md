@@ -78,25 +78,29 @@ And here we talk about results, showing data. It's not enough to say "and we wer
 
 **Inconsistent narrative**
 
-Your answer should read like someone "describing the room" if you couldn't see it. You shouldn't jump between first and third person, and your tone should be neutral. Pretend you're interviewing for a TV show, or telling a story to a friend. If you were to write your answer down, it would read like a newspaper article.
+Your answer should read like someone "describing the room" if you couldn't see it. You should be consistent in the use of passive or active narrative (e.g don't switch back and forth between 1st and 3rd person). Ideally, you adopt a neutral but light tone - it's OK to show enthusiam when you talk about how "things went well", just don't overdo it; And on the other end of the spectrum, try not to sound lifeless or "robotic", as if reading from a prompt. I like to pretend that I'm just having coffee with a friend and we're talking about work, or that I'm being interviewed at a TV show. Another way to put it is, if you were to write your answer down, it would read a little like an article on a magazine - a balance between a "report" and a "conversation" with the reader.
 
 **Be concise**
 
 Do more with less. For example: 
 
-> "We have achieved outstanding results with this motivated team, leading to a successful launch"
+> "We achieved outstanding results with a motivated team, leading to a successful launch"
 
-This is a drag to say and even worse to hear. Instead, prefer:
+This is a drag to say and even worse to hear. It's also vague, subjective to interpretation (are results really outstanding? was the team really motivated?). Instead, prefer:
 
-> "The project was launched by X with Y impact"
+> "The project was launched by X with Y impact."
 
-Save the poetry. I also love this Mark Twain's quote:
+Ditch the poetry. We are looking for direct answers higlighting important facts.
+
+I love this Mark Twain's quote:
 
 > "I didn't have time to write a short letter, so I wrote a long one instead."
 
+The takeaway here is that it's _hard_ to be concise, but the effort pays off.
+
 **Vocabulary**
 
-Avoid repetition, buzz words, stuttering ("like... uh... like... for example..."). Avoid complicated technical statements and jargon, unless strictly necessary. Your answer should be readable by anyone with basic background in your domain. You can introduce some explanation to your answer, when you can safely assume the reader is unfamiliar with the technical domain; But even then, remember the rule about being concise.
+Avoid repetition, buzz words, stuttering ("like... Uh... Like... So..."). Avoid complicated technical statements and jargon, unless strictly necessary. Your answer should be readable by anyone with basic background in your domain. You can introduce some explanation to your answer, when you can safely assume the reader is unfamiliar with the technical domain; But even then, remember the rule about being concise.
 
 **Categorize your examples**
 
