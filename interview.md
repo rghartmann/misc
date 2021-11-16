@@ -8,8 +8,12 @@ It's easy to bomb these questions if you haven't thought of their _purpose_ befo
 
 ### Examples
 
-* Tell me about a time when... (area of interest to the interviewer)
-* ...Followed by questions to probe on the candidate's experience.
+* Tell me about (a time when)... 
+* Give me an example of (a situation)...
+* Can you share (an experience of)...
+* How do you (action, e.g handle a problem) when (situation)...
+
+... And as you answer each of these, the interviewers usually follow up with clarifying short questions, digging down into an aspect of your example or story, until satisfied. If you've seen this pattern before, you likely faced behavioural questions.
 
 **_Can you tell me about a time you were facing a difficult deadline in a project?_**
 - When did you first talk to your leadership about the problems?
