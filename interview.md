@@ -2,9 +2,9 @@
 
 ## Behavioural Questions
 
-Most (tech) interviews are conducted using _Behavioural Questions_. These questions are used to explore your work experience and determine your ability to be successful at the role you're interviewing for. While they can be used to filter out exaggerated claims and other red flags, they are also useful to highlight potential areas for growth if you were to join the company. This clarifies to the hiring manager what potential a candidate has a long term hire, which can feed data into the compensation decision as well.
+Most (tech) interviews are conducted using _Behavioural Questions_. These questions are used to explore your work experience and determine your ability to be successful at the role you're interviewing for. While they can be used to filter out exaggerated claims and other red flags, they are also useful to highlight potential areas for growth if you were to join the company. This clarifies to the hiring manager what potential a candidate has for long term hire, and this will also inform the compensation decision.
 
-It's easy to bomb these questions if you haven't thought of their _purpose_ before. The best indicator for future performance is past performance (note: not a _guarantee_, but an _indicator_). Interviewers need _data_ to make those determinations, and this technique is a reliable mechanism to collect it. At most companies, the results of the behavioural interview are added to technical screening data in a "de-briefing" session, in which stakeholders make the hiring decision.
+It's easy to bomb these questions if you haven't thought of their _purpose_ before. The best indicator for future performance is past performance (note: not a _guarantee_, but an _indicator_). Interviewers need _data_ to make those determinations, and this technique is a reliable mechanism to collect it. In most companies, the results of the behavioural interview are added to technical screening data in a "de-briefing" session, in which stakeholders make the hiring decision.
 
 ### Examples
 
